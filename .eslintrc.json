@@ -11,5 +11,8 @@
         "ecmaVersion": "latest",
         "sourceType": "module"
     },
+    "settings": {
+        "import/resolver": "webpack"
+    },
     "rules": {}
 }
